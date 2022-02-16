@@ -1,0 +1,40 @@
+.slider-footer-bg{
+    background: #FEEAE9;
+}
+.slider-price-color{
+    color: #FF136F;
+}
+.pink-button, .btn-dark{
+    padding: 10px 28px;
+    border-radius: 6px;
+    color: white;
+}
+.pink-button{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+}
+.pink-button:hover{
+    background: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%);
+    color: white;
+}
+.btn-dark:hover{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+}
+.category-section img{
+    width: 68px;
+    height: 90px;
+}
+.cat-watch-bg{
+    background: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%);
+}
+.cat-bag-bg{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+}
+.cat-shoes-bg{
+    background: linear-gradient(170.41deg, #4289FF -10.89%, #3F07F8 92.77%);
+}
+#shoes, #backpack, .category-section{
+    padding-top: 5%;
+}
+footer{
+    margin-top: 8%;
+}
